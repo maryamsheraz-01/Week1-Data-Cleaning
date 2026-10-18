@@ -1,0 +1,77 @@
+Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status
+Sara Ahmed,student0@example.com,03002058756,Data Science,NUST,2026-06-20,Selected
+Usman Tariq,student1@example.com,03007368886,Data Science,NUST,2026-06-20,Under Review
+Usman Tariq,student2@example.com,03008260626,App Development,NUST,2026-06-20,Rejected
+Bilal Raza,student3@example.com,03011234567,App Development,NUST,2026-06-03,Under Review
+Ali Khan,student4@example.com,03001426910,Graphic Design,Punjab University,2026-05-12,Selected
+Sara Ahmed,student6@example.com,03008346534,AI/ML,Punjab University,2026-05-12,Rejected
+Sara Ahmed,student7@example.com,03004670536,AI/ML,FAST,2026-05-12,Selected
+Ayesha Noor,student8@example.com,03002677726,Web Development,Punjab University,2026-06-03,Under Review
+Ali Khan,student9@example.com,03006581698,Graphic Design,Punjab University,2026-06-20,Rejected
+Bilal Raza,student10@example.com,03004185149,Data Science,FAST,2026-06-20,Under Review
+Usman Tariq,student11@example.com,03001579247,AI/ML,Not Specified,2026-06-20,Selected
+Bilal Raza,student12@example.com,03003902582,Data Science,Punjab University,2026-06-03,Under Review
+Usman Tariq,student14@example.com,03001496185,AI/ML,NUST,2026-06-03,Rejected
+Ayesha Noor,student15@example.com,03007603506,Graphic Design,NUST,2026-05-12,Rejected
+Sara Ahmed,student16@example.com,03001206386,Data Science,Punjab University,2026-05-12,Selected
+Ayesha Noor,student17@example.com,03006768441,App Development,FAST,2026-06-20,Rejected
+Bilal Raza,student18@example.com,03001095783,AI/ML,Punjab University,2026-05-12,Rejected
+Ayesha Noor,student19@example.com,03004447470,AI/ML,NUST,2026-06-20,Rejected
+Ayesha Noor,student20@example.com,03004352749,App Development,UET,2026-06-20,Under Review
+Usman Tariq,student21@example.com,03006806224,Web Development,Punjab University,2026-06-03,Selected
+Ayesha Noor,student22@example.com,03001469342,Data Science,Not Specified,2026-05-12,Rejected
+Ayesha Noor,student23@example.com,03004033052,Web Development,Punjab University,2026-06-03,Under Review
+Bilal Raza,student24@example.com,03002182013,Web Development,NUST,2026-06-20,Under Review
+Sara Ahmed,student27@example.com,03005578744,Graphic Design,Punjab University,2026-06-03,Selected
+Bilal Raza,student28@example.com,03006402293,AI/ML,UET,2026-05-12,Under Review
+Hina Malik,student29@example.com,03007485352,Data Science,UET,2026-05-12,Rejected
+Ali Khan,student30@example.com,03005252322,Graphic Design,Punjab University,2026-05-12,Rejected
+Usman Tariq,student31@example.com,03001349269,Data Science,NUST,2026-06-20,Selected
+Ali Khan,student32@example.com,03003688172,AI/ML,Punjab University,2026-06-20,Rejected
+Sara Ahmed,student33@example.com,03009667101,AI/ML,NUST,2026-05-12,Selected
+Bilal Raza,student34@example.com,03006389610,Graphic Design,Punjab University,2026-06-20,Under Review
+Bilal Raza,student35@example.com,03006009776,Web Development,NUST,2026-05-12,Rejected
+Ali Khan,student36@example.com,03002282553,Data Science,FAST,2026-05-12,Selected
+Ayesha Noor,student37@example.com,03005233866,Web Development,NUST,2026-05-12,Rejected
+Sara Ahmed,student38@example.com,03008731821,Web Development,Punjab University,2026-05-12,Selected
+Sara Ahmed,student39@example.com,03006820534,Web Development,NUST,2026-06-20,Rejected
+Sara Ahmed,student40@example.com,03009260274,Web Development,Punjab University,2026-06-20,Rejected
+Ayesha Noor,student41@example.com,03009385251,Web Development,FAST,2026-06-20,Rejected
+Ali Khan,student42@example.com,03003633440,Data Science,FAST,2026-05-12,Rejected
+Usman Tariq,student43@example.com,03004574046,Data Science,Punjab University,2026-05-12,Selected
+Ayesha Noor,student44@example.com,03006768842,Graphic Design,Punjab University,2026-06-20,Rejected
+Sara Ahmed,student45@example.com,03002095934,Graphic Design,NUST,2026-05-12,Selected
+Sara Ahmed,student46@example.com,03003794288,App Development,NUST,2026-06-03,Rejected
+Ayesha Noor,student47@example.com,03009487400,Data Science,FAST,2026-06-03,Rejected
+Ali Khan,student48@example.com,03005885781,Data Science,Punjab University,2026-06-20,Selected
+Ayesha Noor,student49@example.com,03002749444,Data Science,NUST,2026-06-20,Under Review
+Usman Tariq,student50@example.com,03003471760,Web Development,FAST,2026-05-12,Rejected
+Ayesha Noor,student51@example.com,03007342452,Web Development,Punjab University,2026-05-12,Rejected
+Ali Khan,student52@example.com,03005474880,Data Science,FAST,2026-05-12,Selected
+Hina Malik,student53@example.com,03002807420,Web Development,FAST,2026-05-12,Rejected
+Bilal Raza,student54@example.com,03001244077,Web Development,UET,2026-05-12,Under Review
+Sara Ahmed,student55@example.com,03005020380,App Development,UET,2026-05-12,Under Review
+Usman Tariq,student56@example.com,03003808228,Graphic Design,NUST,2026-05-12,Under Review
+Usman Tariq,student57@example.com,03007346439,App Development,FAST,2026-06-03,Selected
+Hina Malik,student58@example.com,03002679888,Data Science,Punjab University,2026-06-03,Under Review
+Ali Khan,student59@example.com,03001176263,Data Science,Punjab University,2026-06-03,Selected
+Usman Tariq,student60@example.com,03006255980,AI/ML,NUST,2026-05-12,Rejected
+Ayesha Noor,student61@example.com,03008648027,Web Development,FAST,2026-05-12,Rejected
+Ayesha Noor,student62@example.com,03008867173,Graphic Design,FAST,2026-06-03,Selected
+Ayesha Noor,student63@example.com,03004486924,Data Science,NUST,2026-05-12,Rejected
+Ali Khan,student64@example.com,03005710819,Web Development,UET,2026-05-12,Rejected
+Bilal Raza,student65@example.com,03006685526,Data Science,UET,2026-06-03,Under Review
+Hina Malik,student66@example.com,03004134199,Data Science,Punjab University,2026-06-03,Selected
+Hina Malik,student67@example.com,03002693620,App Development,Punjab University,2026-05-12,Selected
+Sara Ahmed,student68@example.com,03001341819,Data Science,UET,2026-05-12,Rejected
+Ayesha Noor,student69@example.com,03002189779,Graphic Design,NUST,2026-05-12,Under Review
+Hina Malik,student70@example.com,03007026231,AI/ML,UET,2026-05-12,Under Review
+Ayesha Noor,student71@example.com,03006504496,Web Development,Punjab University,2026-05-12,Selected
+Sara Ahmed,student72@example.com,03003374616,Data Science,FAST,2026-05-12,Rejected
+Ayesha Noor,student73@example.com,03005923936,Web Development,NUST,2026-05-12,Rejected
+Bilal Raza,student74@example.com,03001532843,Data Science,Punjab University,2026-05-12,Selected
+Hina Malik,student75@example.com,03008258461,App Development,NUST,2026-05-12,Selected
+Hina Malik,student76@example.com,03002080690,Graphic Design,UET,2026-06-20,Rejected
+Hina Malik,student77@example.com,03008371888,App Development,UET,2026-05-12,Selected
+Hina Malik,student78@example.com,03003877587,Data Science,UET,2026-05-12,Selected
+Ayesha Noor,student79@example.com,03001317273,Web Development,Punjab University,2026-06-03,Rejected
